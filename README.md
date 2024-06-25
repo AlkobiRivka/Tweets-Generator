@@ -1,7 +1,7 @@
 # Tweets-Generator
 
 
-Files: TweetsGeneration.c,Tweets.txt ,README.txt (this file)
+Files: TweetsGeneration.c, Tweets.txt
 Input:
 1.number of tweets to create
 2.path to the text file (use the Tweets.txt text)
